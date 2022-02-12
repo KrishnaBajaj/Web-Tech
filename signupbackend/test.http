@@ -1,0 +1,6 @@
+POST http://localhost:4000/app/entername
+Content-Type: application/json
+
+{
+    "NAME":"Luke"
+}
